@@ -5,9 +5,24 @@ https://raw.githubusercontent.com/Archana-3009/https-www.data.gov.in-catalog-rea
 Numpy Tutorial
 
 ## Description
+This Project analyses the Assessment of Air Quality: Provide a standardized measure of pollutants (like PM2.5, PM10, NO₂, SO₂, CO, O₃) to understand how clean or polluted the air is.
 
-An in-depth paragraph about your project and overview of use.
+Identify Trends: Track changes in air quality across cities
 
+Enable Decision-Making: Help policymakers, city planners, and environmental agencies design interventions (e.g., traffic restrictions, industrial regulations).
+
+Raise Awareness: Inform the public about safe vs. hazardous air conditions, often through AQI categories (Good, Moderate, Unhealthy, Hazardous).
+
+Predictive Analysis: forecast pollution levels.
+
+The project includes:
+
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Statistical Analysis
+Data Visualization
+Interactive Power BI Dashboard
+End-to-End Automation Workflow using Python + Google Sheets + Power BI
 ## Getting Started
 
 ### Dependencies
