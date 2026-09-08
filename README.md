@@ -17,12 +17,12 @@ Predictive Analysis: forecast pollution levels.
 
 The project includes:
 
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Statistical Analysis
-Data Visualization
-Interactive Power BI Dashboard
-End-to-End Automation Workflow using Python + Google Sheets + Power BI
+*  Data Cleaning & Preprocessing
+*  Exploratory Data Analysis (EDA)
+*  Statistical Analysis
+* Data Visualization
+* Interactive Power BI Dashboard
+* End-to-End Automation Workflow using Python + Google Sheets + Power BI
 ## Getting Started
 
 ### Dependencies
