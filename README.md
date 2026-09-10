@@ -23,7 +23,57 @@ The project includes:
 * Data Visualization
 * Interactive Power BI Dashboard
 * End-to-End Automation Workflow using Python + Google Sheets + Power BI
-## Getting Started
+## Dataset
+
+| Details   | Value              |
+|-----------|--------------------|
+| Dataset   | Air Quality Index  |
+| Source    | Data.govt.in       |
+| Records   | 3514 Rows                |
+| Features  | 11 Columns         |
+| File Type | CSV                |
+
+📁 Project Files
+📂 Google Drive
+This drive contains:
+•	✅ Raw Dataset
+•	✅ Cleaned Dataset
+•	✅ Google Colab Note
+•	✅ Python Code
+•	✅ Project Report
+•	✅ Power BI Dashboard Files
+
+# Drive Link
+[Link Text] (https://colab.research.google.com/drive/15iUkMUCfYkf4yqDC_s7rAU3JnTFHjAQA?usp=drive_link)
+
+🎯 Objectives
+•	Analyze major Pollutants.
+•	Major Pollutant category
+•	Health hazards caused by Pollutants.
+•	Analyse the pollutant distribution across states & Cities.
+•	Pollutant registered in Pollutant stations.
+________________________________________
+🛠 Tools & Technologies
+| Tools & Technologies | Usage / Purpose |
+|----------------------|-----------------|
+| Python               | Programming & data analysis |
+| Pandas               | Data manipulation & cleaning |
+| KNN                  | Machine learning (imputation/classification) |
+| Matplotlib           | Visualization & plotting |
+| Seaborn              | Statistical visualizations |
+| Google Colab         | Cloud-based coding environment |
+| Power BI             | Interactive dashboards & reporting |
+| Google Sheets        | Data entry & lightweight analysis |
+| GitHub               | Version control & project sharing |
+________________________________________
+🧹 Data Preprocessing
+•	Performed Exploratory Data Analysis (EDA)
+•	Checked missing values
+•	Verified duplicate records
+•	Converted date columns
+•	Removed Time column
+•	Handled missing values
+
 
 ### Dependencies
 
