@@ -35,12 +35,12 @@ The project includes:
 
 
 ### This drive contains:
-#  ✅ Raw Dataset
-#  ✅ Cleaned Dataset
-# 	✅ Google Colab Note
-# 	✅ Python Code
-# 	✅ Project Report
-# 	✅ Power BI Dashboard Files
+  ✅ Raw Dataset
+  ✅ Cleaned Dataset
+ 	✅ Google Colab Note
+ 	✅ Python Code
+ 	✅ Project Report
+ 	✅ Power BI Dashboard Files
 
 # Drive Link
 [Link Text] (https://colab.research.google.com/drive/15iUkMUCfYkf4yqDC_s7rAU3JnTFHjAQA?usp=drive_link)
@@ -73,31 +73,10 @@ ________________________________________
 •	Removed Time column
 •	Handled missing values
 
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/b7e2bc92-cca6-4244-b49f-10b07954309f" />
 
-### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
