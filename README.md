@@ -33,15 +33,14 @@ The project includes:
 | Features  | 11 Columns         |
 | File Type | CSV                |
 
-📁 Project Files
-📂 Google Drive
-This drive contains:
-•	✅ Raw Dataset
-•	✅ Cleaned Dataset
-•	✅ Google Colab Note
-•	✅ Python Code
-•	✅ Project Report
-•	✅ Power BI Dashboard Files
+
+### This drive contains:
+#  ✅ Raw Dataset
+#  ✅ Cleaned Dataset
+# 	✅ Google Colab Note
+# 	✅ Python Code
+# 	✅ Project Report
+# 	✅ Power BI Dashboard Files
 
 # Drive Link
 [Link Text] (https://colab.research.google.com/drive/15iUkMUCfYkf4yqDC_s7rAU3JnTFHjAQA?usp=drive_link)
