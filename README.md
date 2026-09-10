@@ -129,6 +129,8 @@ ________________________________________
 - **Policy Insight:** This chart helps policymakers prioritize interventions such as dust control, emission filters, and fuel standards
 
 
+
+
 <img width="603" height="559" alt="image" src="https://github.com/user-attachments/assets/c31caf6b-b5da-4e53-a250-4e38d92ff018" />
 
 ## 🥧 Distribution of Pollutant Groups
@@ -159,6 +161,8 @@ This chart **summarizes the overall composition of pollution types in one glance
 - **Evidence:** Outliers prove that extreme values dominate averages, making them critical for analysis.  
 - **Policy implication:** Continuous monitoring of **maximum pollutant levels** is essential for protecting public health and guiding interventions.
 
+
+
 <img width="580" height="486" alt="image" src="https://github.com/user-attachments/assets/bf284161-6647-4f7a-ba30-e4e8052b2228" />
 
 ## 🩺 Relationship Between Pollution Categories and Health Hazards
@@ -169,6 +173,9 @@ This chart **summarizes the overall composition of pollution types in one glance
 - **Low Pollution:** Mostly linked to **respiratory hazards** (asthma, bronchitis, reduced lung function).  
 - **Moderate Pollution:** Increasing presence of **respiratory + cardiovascular risks**, showing early impact of gaseous pollutants.  
 - **High / Very High Pollution:** More associated with **cardiovascular and toxic hazards**, including neurological effects from heavy
+
+
+
 
 <img width="997" height="651" alt="image" src="https://github.com/user-attachments/assets/143bb342-d969-4d95-acc2-e4fac10c911f" />
 ## 🌍 State-wise Average Pollutant Levels
@@ -184,6 +191,8 @@ This chart **summarizes the overall composition of pollution types in one glance
 - **Viridis color palette** → Smooth gradient that visually distinguishes states while keeping focus on pollutant intensity.  
 - **Policy Insight:** This ordered view makes it easy to identify **priority states for intervention** and compare relative air quality across the country.  
 - **Overall Finding:** Pollution is **not evenly distributed** — some states consistently face worse air quality, making them priority areas for environmental and health interventions.
+
+
 
 <img width="1005" height="525" alt="image" src="https://github.com/user-attachments/assets/5afa86a6-9659-49ac-8888-60893d315ad6" />
 
@@ -222,32 +231,40 @@ This chart highlights **priority cities for intervention** and shows how **diffe
 - **Overall Insight:** Air pollution in the most affected cities is strongly correlated with **respiratory health problems**, making them the most critical concern for public health interventions.  
 - **Policy Relevance:** This chart strengthens the case for **targeted respiratory health programs**, stricter particulate matter controls, and public awareness campaigns.
 
+## PowerBI Dashboard
+
+<img width="940" height="554" alt="image" src="https://github.com/user-attachments/assets/e205a51a-3e5f-4743-8b80-7070c5df80ec" />
 
 
+<img width="940" height="532" alt="image" src="https://github.com/user-attachments/assets/a2a18d94-4040-41f8-962e-d78fd405cee9" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📌 Key Findings – AQI Analysis
+• Processed 3514 AQI records across multiple cities.
+• Analyzed 11 dataset features (pollutants, AQI, categories, locations).
+• Created 13 Python visualizations (line charts, bar charts, scatterplots, heatmaps, boxplots, maps).
+• Built 2 Interactive Power BI Dashboards (city-level monitoring & pollutant impact).
+• Developed an automated workflow for AQI cleaning, categorization, and reporting.
+• PM2.5 emerged as the strongest driver of AQI, showing severe particulate matter pollution.
+• Majority of records fell under the **Low category (~3000)**, but ~400 records showed **Moderate pollution**.
+• High and Very High categories were rare, but critical → extreme pollution spikes.
+• Cities like **Delhi, Punjab, Haryana, Bihar** showed consistently higher averages → poor air quality.
+• Cities like **Sikkim, Mizoram, Uttarakhand** showed lower averages → cleaner air.
+• Respiratory hazards dominated health risks, strongly linked to PM2.5 and PM10.
+• Cardiac and toxic hazards appeared in High/Very High categories → less frequent but severe.
+• Geographic hotspot analysis identified priority states and cities for intervention.
+• Policy insight: Different pollutants dominate in different regions (e.g., dust in Leh, NO₂ in Ambala, CO in Ballabgarh).
+• Overall, AQI analysis confirms variability in air quality, with **respiratory health risks as the most critical concern**.
 
 
 ## Authors
 
-Contributors names and contact info
+## Archana S
+
+## Skills
+* Python
+* SQL
+*	Power BI
+* Excel
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
